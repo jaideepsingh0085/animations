@@ -12,9 +12,8 @@ body{
 .container{
     display: flex;
     width: 1100px;
-    justify-content: space-between;
     -webkit-box-reflect: below 1px
-		linear-gradient(transparent, transparent, #0004);
+	linear-gradient(transparent, transparent, #0004);
 }
 .container>img{
     max-width: 350px;
